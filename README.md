@@ -1,0 +1,2 @@
+# SDiZO
+Program sortujący dane.
